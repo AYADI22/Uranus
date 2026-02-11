@@ -3,7 +3,7 @@ import requests
 
 # تعريف المتغيرات (المفاتيح)
 # استبدل النص بين القوسين بالتوكن الحقيقي من تلجرام
-TELEGRAM_TOKEN = "8306706068:AAEJfB5KY7vTei6RybrCFFXV3VOAj1ng07c" 
+TELEGRAM_"8306706068:AAEJfB5KY7vTei6RybrCFFXV3VOAj1ng07c"
 
 # مفتاح OpenRouter الذي أرسلته لي
 OPENROUTER_API_KEY = "Sk-or-v1-2952d44fbf6fbf5d3cdf7ae14f572820778888847907b86b873ddd19a7ed19a2"
